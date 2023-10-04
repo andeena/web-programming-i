@@ -1,0 +1,26 @@
+*, html {
+    padding: 0;
+    margin: 0;
+}
+  
+.bs-docs-featurette {
+    padding-top: 100px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.h4 {
+    text-align: center;
+    /* margin-top: 10px;
+    margin-bottom: 10px; */
+}
+
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+
+/* .col-sm-4 {
+    /* padding-left: 15px;
+    padding-right: 15px; 
+} */
